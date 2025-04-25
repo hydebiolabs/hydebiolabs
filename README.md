@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+hydebiolabs is an innovative life sciences supplements, custom synthesis and manufacturing services company.
+for more information, please visit the website www.hydebiolabs.com
+Email hello@hydebiolabs.com
 <!--
 **hydebiolabs/hydebiolabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
